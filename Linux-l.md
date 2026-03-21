@@ -697,3 +697,6 @@ If you'd like, I can also:
 - Convert this into a printable PDF format
 - Turn it into a clean GitHub-ready README
 - Add diagrams for networking & filesystem
+
+fine tuning needed
+
