@@ -698,5 +698,6 @@ If you'd like, I can also:
 - Turn it into a clean GitHub-ready README
 - Add diagrams for networking & filesystem
 
-fine tuning needed
+fine tuning needed and further notes can be add.
+
 
