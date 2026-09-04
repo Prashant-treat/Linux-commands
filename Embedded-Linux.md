@@ -603,6 +603,8 @@ placement.
 - [Linux From Scratch](https://www.linuxfromscratch.org/): useful for learning
 	how a Linux system is assembled, although it is not an embedded build system.
 
+
+
 ## How to use these resources
 
 Read one chapter, implement one small experiment, and write down the observed
@@ -610,3 +612,4 @@ boot log or measurement. For every new topic, answer: what problem does it
 solve, which layer owns it, how is it configured, how can it fail, and how can
 the failure be observed? This turns passive study into placement evidence.
 
+Also refer to proper study plan.
